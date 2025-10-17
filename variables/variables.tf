@@ -29,4 +29,4 @@ variable "protocol" {
 variable "sg_id" {
     type = string
     default = "all_allow"
-}
+} 
